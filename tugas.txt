@@ -2,3 +2,4 @@ baris pertama
 [master 7fa033f] Commit bari pertama
  1 file changed, 1 insertion(+)
  create mode 100644 tugas.txt
+baris kedua
